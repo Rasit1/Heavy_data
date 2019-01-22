@@ -7,3 +7,4 @@ gem "i18n"
 gem 'rubocop', '~> 0.57.2'
 gem 'bundler', '~> 2.0', '>= 2.0.1'
 gem 'json'
+gem "google_drive"
